@@ -1,0 +1,6 @@
+#Игнорировать всё
+*
+#Кроме
+!.gitignore
+!viewer.c
+!Makefile
