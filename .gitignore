@@ -2,5 +2,6 @@
 *
 #Кроме
 !.gitignore
-!viewer.c
+!Show.c
 !Makefile
+!01_TerminalProject
