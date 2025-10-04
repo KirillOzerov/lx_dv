@@ -1,8 +1,6 @@
-#Игнорировать всё
-*
-#Кроме
-!.gitignore
-!Show.c
-!Makefile
-!01_TerminalProject
-!02_Multifile
+#Игнорировать
+*.o
+*~
+*.out
+*.swo
+prog
